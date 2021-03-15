@@ -1,0 +1,65 @@
+body{
+    background: #525252
+  }
+
+  .wrap{
+    background: #b6b6b6;
+    text-align: center;
+  }
+
+  /* h1{ 
+    animation: nom 0.00001s ease infinite;
+}
+@keyframes nom{
+    0.1% {
+        transform: translate(-2px,-2px);
+    }
+    50% {
+        transform: translate(2px,2px);
+    }
+    0.1% {
+        transform: translate(-2px,-2px);
+    }
+}
+  p{
+    animation: nom 0.0001s ease infinite;
+}
+@keyframes nom{
+    0.1% {
+        transform: translate(-2px,-2px);
+    }
+    50% {
+        transform: translate(2px,2px);
+    }
+    0.1% {
+        transform: translate(-2px,-2px);
+    }
+}
+  button{
+    animation: nom 0.001s ease infinite;
+}
+@keyframes nom{
+    0.1% {
+        transform: translate(-2px,-2px);
+    }
+    50% {
+        transform: translate(2px,2px);
+    }
+    0.1% {
+        transform: translate(-2px,-2px);
+    }
+}
+  input{
+    animation: nom 0.01s ease infinite;
+}
+@keyframes nom{
+    0.1% {
+        transform: translate(-2px,-2px);
+    }
+    50% {
+        transform: translate(2px,2px);
+    }
+    0.1% {
+        transform: translate(-2px,-2px);
+    }
+}
